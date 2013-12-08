@@ -23,8 +23,8 @@
 	<Item Name="NXT_HINDBRAIN Write Data To Screen.vi" Type="VI" URL="../Robo_Programs/NXT_HINDBRAIN Write Data To Screen.vi"/>
 	<Item Name="NXT_HINDBRAIN Write RudderProp To String.vi" Type="VI" URL="../Robo_Programs/NXT_HINDBRAIN Write RudderProp To String.vi"/>
 	<Item Name="NXT_MIDBRAIN Arbiter.vi" Type="VI" URL="../Robo_Programs/NXT_MIDBRAIN Arbiter.vi"/>
-	<Item Name="NXT_MIDBRAIN Check Max Weight Behavior.vi" Type="VI" URL="../Robo_Programs/NXT_MIDBRAIN Check Max Weight Behavior.vi"/>
+	<Item Name="NXT_MIDBRAIN Check Max Weight Behavior.vi" Type="VI" URL="../../../Project Path B/Robo_Programs/NXT_MIDBRAIN Check Max Weight Behavior.vi"/>
 	<Item Name="NXT_MIDBRAIN Get Behavior Weights.vi" Type="VI" URL="../Robo_Programs/NXT_MIDBRAIN Get Behavior Weights.vi"/>
 	<Item Name="NXT_MIDBRAIN Get Max Index.vi" Type="VI" URL="../Robo_Programs/NXT_MIDBRAIN Get Max Index.vi"/>
-	<Item Name="NXT_MIDBRAIN_BEHAVIOR Master Brain.vi" Type="VI" URL="../Robo_Programs/NXT_MIDBRAIN_BEHAVIOR Master Brain.vi"/>
+	<Item Name="NXT_MIDBRAIN_BEHAVIOR Master Brain.vi" Type="VI" URL="../../../Project Path B/Robo_Programs/NXT_MIDBRAIN_BEHAVIOR Master Brain.vi"/>
 </Library>
