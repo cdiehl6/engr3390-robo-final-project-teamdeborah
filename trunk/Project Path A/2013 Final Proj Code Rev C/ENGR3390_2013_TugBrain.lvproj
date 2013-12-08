@@ -96,6 +96,7 @@
 		<Item Name="TemplateBehavior.vi" Type="VI" URL="../TemplateBehavior.vi"/>
 		<Item Name="G_Boat Speed.vi" Type="VI" URL="../G_Boat Speed.vi"/>
 		<Item Name="UDP example.vi" Type="VI" URL="../../Garland 2013 Code for Dave Old/UDP Receive Code/UDP example.vi"/>
+		<Item Name="angletostep.vi" Type="VI" URL="../../../Project Path B/angletostep.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
