@@ -97,6 +97,9 @@
 		<Item Name="G_Boat Speed.vi" Type="VI" URL="../G_Boat Speed.vi"/>
 		<Item Name="UDP example.vi" Type="VI" URL="../../Garland 2013 Code for Dave Old/UDP Receive Code/UDP example.vi"/>
 		<Item Name="angletostep.vi" Type="VI" URL="../../../Project Path B/angletostep.vi"/>
+		<Item Name="DrawBuoy.vi" Type="VI" URL="../../../../../Downloads/DrawBuoy.vi"/>
+		<Item Name="Control 1.ctl" Type="VI" URL="../../../../../SkyDrive/Documents/Control 1.ctl"/>
+		<Item Name="CrossedLine.vi" Type="VI" URL="../CrossedLine.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
